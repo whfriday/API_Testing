@@ -1,0 +1,5 @@
+sets = set()
+sets.add('Luke')
+sets.add('grey')
+sets.add('Luke')
+print(sets)

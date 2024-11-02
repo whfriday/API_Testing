@@ -1,0 +1,1209 @@
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:31.370799
+Request method: GET
+Request URL: https://swapi.dev/api/people/4/
+
+Response code: 200
+Response text: {"name":"Darth Vader","height":"202","mass":"136","hair_color":"none","skin_color":"white","eye_color":"yellow","birth_year":"41.9BBY","gender":"male","homeworld":"https://swapi.dev/api/planets/1/","films":["https://swapi.dev/api/films/1/","https://swapi.dev/api/films/2/","https://swapi.dev/api/films/3/","https://swapi.dev/api/films/6/"],"species":[],"vehicles":[],"starships":["https://swapi.dev/api/starships/13/"],"created":"2014-12-10T15:18:20.704000Z","edited":"2014-12-20T21:17:50.313000Z","url":"https://swapi.dev/api/people/4/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:31 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"3bd6683da4bf9ac731386ed3fa8ce8fc"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:31.674769
+Request method: GET
+Request URL: https://swapi.dev/api/films/1/
+
+Response code: 200
+Response text: {"title":"A New Hope","episode_id":4,"opening_crawl":"It is a period of civil war.\r\nRebel spaceships, striking\r\nfrom a hidden base, have won\r\ntheir first victory against\r\nthe evil Galactic Empire.\r\n\r\nDuring the battle, Rebel\r\nspies managed to steal secret\r\nplans to the Empire's\r\nultimate weapon, the DEATH\r\nSTAR, an armored space\r\nstation with enough power\r\nto destroy an entire planet.\r\n\r\nPursued by the Empire's\r\nsinister agents, Princess\r\nLeia races home aboard her\r\nstarship, custodian of the\r\nstolen plans that can save her\r\npeople and restore\r\nfreedom to the galaxy....","director":"George Lucas","producer":"Gary Kurtz, Rick McCallum","release_date":"1977-05-25","characters":["https://swapi.dev/api/people/1/","https://swapi.dev/api/people/2/","https://swapi.dev/api/people/3/","https://swapi.dev/api/people/4/","https://swapi.dev/api/people/5/","https://swapi.dev/api/people/6/","https://swapi.dev/api/people/7/","https://swapi.dev/api/people/8/","https://swapi.dev/api/people/9/","https://swapi.dev/api/people/10/","https://swapi.dev/api/people/12/","https://swapi.dev/api/people/13/","https://swapi.dev/api/people/14/","https://swapi.dev/api/people/15/","https://swapi.dev/api/people/16/","https://swapi.dev/api/people/18/","https://swapi.dev/api/people/19/","https://swapi.dev/api/people/81/"],"planets":["https://swapi.dev/api/planets/1/","https://swapi.dev/api/planets/2/","https://swapi.dev/api/planets/3/"],"starships":["https://swapi.dev/api/starships/2/","https://swapi.dev/api/starships/3/","https://swapi.dev/api/starships/5/","https://swapi.dev/api/starships/9/","https://swapi.dev/api/starships/10/","https://swapi.dev/api/starships/11/","https://swapi.dev/api/starships/12/","https://swapi.dev/api/starships/13/"],"vehicles":["https://swapi.dev/api/vehicles/4/","https://swapi.dev/api/vehicles/6/","https://swapi.dev/api/vehicles/7/","https://swapi.dev/api/vehicles/8/"],"species":["https://swapi.dev/api/species/1/","https://swapi.dev/api/species/2/","https://swapi.dev/api/species/3/","https://swapi.dev/api/species/4/","https://swapi.dev/api/species/5/"],"created":"2014-12-10T14:23:31.880000Z","edited":"2014-12-20T19:49:45.256000Z","url":"https://swapi.dev/api/films/1/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:31 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"5af12d8e740a258e0c502b480ae78f2f"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:32.189350
+Request method: GET
+Request URL: https://swapi.dev/api/people/1/
+
+Response code: 200
+Response text: {"name":"Luke Skywalker","height":"172","mass":"77","hair_color":"blond","skin_color":"fair","eye_color":"blue","birth_year":"19BBY","gender":"male","homeworld":"https://swapi.dev/api/planets/1/","films":["https://swapi.dev/api/films/1/","https://swapi.dev/api/films/2/","https://swapi.dev/api/films/3/","https://swapi.dev/api/films/6/"],"species":[],"vehicles":["https://swapi.dev/api/vehicles/14/","https://swapi.dev/api/vehicles/30/"],"starships":["https://swapi.dev/api/starships/12/","https://swapi.dev/api/starships/22/"],"created":"2014-12-09T13:50:51.644000Z","edited":"2014-12-20T21:17:56.891000Z","url":"https://swapi.dev/api/people/1/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:32 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"ee398610435c328f4d0a4e1b0d2f7bbc"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:32.613642
+Request method: GET
+Request URL: https://swapi.dev/api/people/2/
+
+Response code: 200
+Response text: {"name":"C-3PO","height":"167","mass":"75","hair_color":"n/a","skin_color":"gold","eye_color":"yellow","birth_year":"112BBY","gender":"n/a","homeworld":"https://swapi.dev/api/planets/1/","films":["https://swapi.dev/api/films/1/","https://swapi.dev/api/films/2/","https://swapi.dev/api/films/3/","https://swapi.dev/api/films/4/","https://swapi.dev/api/films/5/","https://swapi.dev/api/films/6/"],"species":["https://swapi.dev/api/species/2/"],"vehicles":[],"starships":[],"created":"2014-12-10T15:10:51.357000Z","edited":"2014-12-20T21:17:50.309000Z","url":"https://swapi.dev/api/people/2/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:32 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"fa1358a5c603d8393431bfb632861d08"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:33.167346
+Request method: GET
+Request URL: https://swapi.dev/api/people/3/
+
+Response code: 200
+Response text: {"name":"R2-D2","height":"96","mass":"32","hair_color":"n/a","skin_color":"white, blue","eye_color":"red","birth_year":"33BBY","gender":"n/a","homeworld":"https://swapi.dev/api/planets/8/","films":["https://swapi.dev/api/films/1/","https://swapi.dev/api/films/2/","https://swapi.dev/api/films/3/","https://swapi.dev/api/films/4/","https://swapi.dev/api/films/5/","https://swapi.dev/api/films/6/"],"species":["https://swapi.dev/api/species/2/"],"vehicles":[],"starships":[],"created":"2014-12-10T15:11:50.376000Z","edited":"2014-12-20T21:17:50.311000Z","url":"https://swapi.dev/api/people/3/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:33 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"0f87c4bec3e319065be384f7ebfe9da9"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:33.535255
+Request method: GET
+Request URL: https://swapi.dev/api/people/4/
+
+Response code: 200
+Response text: {"name":"Darth Vader","height":"202","mass":"136","hair_color":"none","skin_color":"white","eye_color":"yellow","birth_year":"41.9BBY","gender":"male","homeworld":"https://swapi.dev/api/planets/1/","films":["https://swapi.dev/api/films/1/","https://swapi.dev/api/films/2/","https://swapi.dev/api/films/3/","https://swapi.dev/api/films/6/"],"species":[],"vehicles":[],"starships":["https://swapi.dev/api/starships/13/"],"created":"2014-12-10T15:18:20.704000Z","edited":"2014-12-20T21:17:50.313000Z","url":"https://swapi.dev/api/people/4/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:33 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"3bd6683da4bf9ac731386ed3fa8ce8fc"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:33.769239
+Request method: GET
+Request URL: https://swapi.dev/api/people/5/
+
+Response code: 200
+Response text: {"name":"Leia Organa","height":"150","mass":"49","hair_color":"brown","skin_color":"light","eye_color":"brown","birth_year":"19BBY","gender":"female","homeworld":"https://swapi.dev/api/planets/2/","films":["https://swapi.dev/api/films/1/","https://swapi.dev/api/films/2/","https://swapi.dev/api/films/3/","https://swapi.dev/api/films/6/"],"species":[],"vehicles":["https://swapi.dev/api/vehicles/30/"],"starships":[],"created":"2014-12-10T15:20:09.791000Z","edited":"2014-12-20T21:17:50.315000Z","url":"https://swapi.dev/api/people/5/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:33 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"e26d79104f61b8e3e61eec7fe30ddade"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:34.150520
+Request method: GET
+Request URL: https://swapi.dev/api/people/6/
+
+Response code: 200
+Response text: {"name":"Owen Lars","height":"178","mass":"120","hair_color":"brown, grey","skin_color":"light","eye_color":"blue","birth_year":"52BBY","gender":"male","homeworld":"https://swapi.dev/api/planets/1/","films":["https://swapi.dev/api/films/1/","https://swapi.dev/api/films/5/","https://swapi.dev/api/films/6/"],"species":[],"vehicles":[],"starships":[],"created":"2014-12-10T15:52:14.024000Z","edited":"2014-12-20T21:17:50.317000Z","url":"https://swapi.dev/api/people/6/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:34 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"2e6a32a4abd77976919885e2c7d3e78f"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:34.451637
+Request method: GET
+Request URL: https://swapi.dev/api/people/7/
+
+Response code: 200
+Response text: {"name":"Beru Whitesun lars","height":"165","mass":"75","hair_color":"brown","skin_color":"light","eye_color":"blue","birth_year":"47BBY","gender":"female","homeworld":"https://swapi.dev/api/planets/1/","films":["https://swapi.dev/api/films/1/","https://swapi.dev/api/films/5/","https://swapi.dev/api/films/6/"],"species":[],"vehicles":[],"starships":[],"created":"2014-12-10T15:53:41.121000Z","edited":"2014-12-20T21:17:50.319000Z","url":"https://swapi.dev/api/people/7/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:34 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"5a5c7c3ec3f4a0d9bd768f61e181c293"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:34.705376
+Request method: GET
+Request URL: https://swapi.dev/api/people/8/
+
+Response code: 200
+Response text: {"name":"R5-D4","height":"97","mass":"32","hair_color":"n/a","skin_color":"white, red","eye_color":"red","birth_year":"unknown","gender":"n/a","homeworld":"https://swapi.dev/api/planets/1/","films":["https://swapi.dev/api/films/1/"],"species":["https://swapi.dev/api/species/2/"],"vehicles":[],"starships":[],"created":"2014-12-10T15:57:50.959000Z","edited":"2014-12-20T21:17:50.321000Z","url":"https://swapi.dev/api/people/8/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:34 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"d8f85f78f15b95c7b480411c7ff740f3"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:35.072786
+Request method: GET
+Request URL: https://swapi.dev/api/people/9/
+
+Response code: 200
+Response text: {"name":"Biggs Darklighter","height":"183","mass":"84","hair_color":"black","skin_color":"light","eye_color":"brown","birth_year":"24BBY","gender":"male","homeworld":"https://swapi.dev/api/planets/1/","films":["https://swapi.dev/api/films/1/"],"species":[],"vehicles":[],"starships":["https://swapi.dev/api/starships/12/"],"created":"2014-12-10T15:59:50.509000Z","edited":"2014-12-20T21:17:50.323000Z","url":"https://swapi.dev/api/people/9/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:35 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"60b6fc6f08302a9ac73058ae262c3894"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:35.379025
+Request method: GET
+Request URL: https://swapi.dev/api/people/10/
+
+Response code: 200
+Response text: {"name":"Obi-Wan Kenobi","height":"182","mass":"77","hair_color":"auburn, white","skin_color":"fair","eye_color":"blue-gray","birth_year":"57BBY","gender":"male","homeworld":"https://swapi.dev/api/planets/20/","films":["https://swapi.dev/api/films/1/","https://swapi.dev/api/films/2/","https://swapi.dev/api/films/3/","https://swapi.dev/api/films/4/","https://swapi.dev/api/films/5/","https://swapi.dev/api/films/6/"],"species":[],"vehicles":["https://swapi.dev/api/vehicles/38/"],"starships":["https://swapi.dev/api/starships/48/","https://swapi.dev/api/starships/59/","https://swapi.dev/api/starships/64/","https://swapi.dev/api/starships/65/","https://swapi.dev/api/starships/74/"],"created":"2014-12-10T16:16:29.192000Z","edited":"2014-12-20T21:17:50.325000Z","url":"https://swapi.dev/api/people/10/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:35 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"cb2560521268c820fb026924d6c8a800"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:35.872018
+Request method: GET
+Request URL: https://swapi.dev/api/people/12/
+
+Response code: 200
+Response text: {"name":"Wilhuff Tarkin","height":"180","mass":"unknown","hair_color":"auburn, grey","skin_color":"fair","eye_color":"blue","birth_year":"64BBY","gender":"male","homeworld":"https://swapi.dev/api/planets/21/","films":["https://swapi.dev/api/films/1/","https://swapi.dev/api/films/6/"],"species":[],"vehicles":[],"starships":[],"created":"2014-12-10T16:26:56.138000Z","edited":"2014-12-20T21:17:50.330000Z","url":"https://swapi.dev/api/people/12/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:35 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"604befef43483312ac45ac2533f40374"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:36.098696
+Request method: GET
+Request URL: https://swapi.dev/api/people/13/
+
+Response code: 200
+Response text: {"name":"Chewbacca","height":"228","mass":"112","hair_color":"brown","skin_color":"unknown","eye_color":"blue","birth_year":"200BBY","gender":"male","homeworld":"https://swapi.dev/api/planets/14/","films":["https://swapi.dev/api/films/1/","https://swapi.dev/api/films/2/","https://swapi.dev/api/films/3/","https://swapi.dev/api/films/6/"],"species":["https://swapi.dev/api/species/3/"],"vehicles":["https://swapi.dev/api/vehicles/19/"],"starships":["https://swapi.dev/api/starships/10/","https://swapi.dev/api/starships/22/"],"created":"2014-12-10T16:42:45.066000Z","edited":"2014-12-20T21:17:50.332000Z","url":"https://swapi.dev/api/people/13/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:36 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"d650397ca5f12bb7628e9fb7fac2a537"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:36.426203
+Request method: GET
+Request URL: https://swapi.dev/api/people/14/
+
+Response code: 200
+Response text: {"name":"Han Solo","height":"180","mass":"80","hair_color":"brown","skin_color":"fair","eye_color":"brown","birth_year":"29BBY","gender":"male","homeworld":"https://swapi.dev/api/planets/22/","films":["https://swapi.dev/api/films/1/","https://swapi.dev/api/films/2/","https://swapi.dev/api/films/3/"],"species":[],"vehicles":[],"starships":["https://swapi.dev/api/starships/10/","https://swapi.dev/api/starships/22/"],"created":"2014-12-10T16:49:14.582000Z","edited":"2014-12-20T21:17:50.334000Z","url":"https://swapi.dev/api/people/14/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:36 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"c2b0e81a863395462adfc75bb9c5dd50"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:36.792987
+Request method: GET
+Request URL: https://swapi.dev/api/people/15/
+
+Response code: 200
+Response text: {"name":"Greedo","height":"173","mass":"74","hair_color":"n/a","skin_color":"green","eye_color":"black","birth_year":"44BBY","gender":"male","homeworld":"https://swapi.dev/api/planets/23/","films":["https://swapi.dev/api/films/1/"],"species":["https://swapi.dev/api/species/4/"],"vehicles":[],"starships":[],"created":"2014-12-10T17:03:30.334000Z","edited":"2014-12-20T21:17:50.336000Z","url":"https://swapi.dev/api/people/15/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:36 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"25fd8be8c8cccd602b1bb35b17bb98ea"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:37.010543
+Request method: GET
+Request URL: https://swapi.dev/api/people/16/
+
+Response code: 200
+Response text: {"name":"Jabba Desilijic Tiure","height":"175","mass":"1,358","hair_color":"n/a","skin_color":"green-tan, brown","eye_color":"orange","birth_year":"600BBY","gender":"hermaphrodite","homeworld":"https://swapi.dev/api/planets/24/","films":["https://swapi.dev/api/films/1/","https://swapi.dev/api/films/3/","https://swapi.dev/api/films/4/"],"species":["https://swapi.dev/api/species/5/"],"vehicles":[],"starships":[],"created":"2014-12-10T17:11:31.638000Z","edited":"2014-12-20T21:17:50.338000Z","url":"https://swapi.dev/api/people/16/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:37 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"c684e7d585cdded848283b4c2414f4d5"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:37.258244
+Request method: GET
+Request URL: https://swapi.dev/api/people/18/
+
+Response code: 200
+Response text: {"name":"Wedge Antilles","height":"170","mass":"77","hair_color":"brown","skin_color":"fair","eye_color":"hazel","birth_year":"21BBY","gender":"male","homeworld":"https://swapi.dev/api/planets/22/","films":["https://swapi.dev/api/films/1/","https://swapi.dev/api/films/2/","https://swapi.dev/api/films/3/"],"species":[],"vehicles":["https://swapi.dev/api/vehicles/14/"],"starships":["https://swapi.dev/api/starships/12/"],"created":"2014-12-12T11:08:06.469000Z","edited":"2014-12-20T21:17:50.341000Z","url":"https://swapi.dev/api/people/18/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:37 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"9252fda59e2284951ff6e5e81fc54008"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:37.539213
+Request method: GET
+Request URL: https://swapi.dev/api/people/19/
+
+Response code: 200
+Response text: {"name":"Jek Tono Porkins","height":"180","mass":"110","hair_color":"brown","skin_color":"fair","eye_color":"blue","birth_year":"unknown","gender":"male","homeworld":"https://swapi.dev/api/planets/26/","films":["https://swapi.dev/api/films/1/"],"species":[],"vehicles":[],"starships":["https://swapi.dev/api/starships/12/"],"created":"2014-12-12T11:16:56.569000Z","edited":"2014-12-20T21:17:50.343000Z","url":"https://swapi.dev/api/people/19/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:37 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"3289f36de0b278c5e251a39e7bf7ae2a"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:37.991447
+Request method: GET
+Request URL: https://swapi.dev/api/people/81/
+
+Response code: 200
+Response text: {"name":"Raymus Antilles","height":"188","mass":"79","hair_color":"brown","skin_color":"light","eye_color":"brown","birth_year":"unknown","gender":"male","homeworld":"https://swapi.dev/api/planets/2/","films":["https://swapi.dev/api/films/1/","https://swapi.dev/api/films/6/"],"species":[],"vehicles":[],"starships":[],"created":"2014-12-20T19:49:35.583000Z","edited":"2014-12-20T21:17:50.493000Z","url":"https://swapi.dev/api/people/81/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:38 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"5a94d70e19548a99066f9348cd3bd78a"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:38.452175
+Request method: GET
+Request URL: https://swapi.dev/api/films/2/
+
+Response code: 200
+Response text: {"title":"The Empire Strikes Back","episode_id":5,"opening_crawl":"It is a dark time for the\r\nRebellion. Although the Death\r\nStar has been destroyed,\r\nImperial troops have driven the\r\nRebel forces from their hidden\r\nbase and pursued them across\r\nthe galaxy.\r\n\r\nEvading the dreaded Imperial\r\nStarfleet, a group of freedom\r\nfighters led by Luke Skywalker\r\nhas established a new secret\r\nbase on the remote ice world\r\nof Hoth.\r\n\r\nThe evil lord Darth Vader,\r\nobsessed with finding young\r\nSkywalker, has dispatched\r\nthousands of remote probes into\r\nthe far reaches of space....","director":"Irvin Kershner","producer":"Gary Kurtz, Rick McCallum","release_date":"1980-05-17","characters":["https://swapi.dev/api/people/1/","https://swapi.dev/api/people/2/","https://swapi.dev/api/people/3/","https://swapi.dev/api/people/4/","https://swapi.dev/api/people/5/","https://swapi.dev/api/people/10/","https://swapi.dev/api/people/13/","https://swapi.dev/api/people/14/","https://swapi.dev/api/people/18/","https://swapi.dev/api/people/20/","https://swapi.dev/api/people/21/","https://swapi.dev/api/people/22/","https://swapi.dev/api/people/23/","https://swapi.dev/api/people/24/","https://swapi.dev/api/people/25/","https://swapi.dev/api/people/26/"],"planets":["https://swapi.dev/api/planets/4/","https://swapi.dev/api/planets/5/","https://swapi.dev/api/planets/6/","https://swapi.dev/api/planets/27/"],"starships":["https://swapi.dev/api/starships/3/","https://swapi.dev/api/starships/10/","https://swapi.dev/api/starships/11/","https://swapi.dev/api/starships/12/","https://swapi.dev/api/starships/15/","https://swapi.dev/api/starships/17/","https://swapi.dev/api/starships/21/","https://swapi.dev/api/starships/22/","https://swapi.dev/api/starships/23/"],"vehicles":["https://swapi.dev/api/vehicles/8/","https://swapi.dev/api/vehicles/14/","https://swapi.dev/api/vehicles/16/","https://swapi.dev/api/vehicles/18/","https://swapi.dev/api/vehicles/19/","https://swapi.dev/api/vehicles/20/"],"species":["https://swapi.dev/api/species/1/","https://swapi.dev/api/species/2/","https://swapi.dev/api/species/3/","https://swapi.dev/api/species/6/","https://swapi.dev/api/species/7/"],"created":"2014-12-12T11:26:24.656000Z","edited":"2014-12-15T13:07:53.386000Z","url":"https://swapi.dev/api/films/2/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:38 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"b0322eeeedb1aa07ab85ea16b75211c0"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:38.760923
+Request method: GET
+Request URL: https://swapi.dev/api/people/1/
+
+Response code: 200
+Response text: {"name":"Luke Skywalker","height":"172","mass":"77","hair_color":"blond","skin_color":"fair","eye_color":"blue","birth_year":"19BBY","gender":"male","homeworld":"https://swapi.dev/api/planets/1/","films":["https://swapi.dev/api/films/1/","https://swapi.dev/api/films/2/","https://swapi.dev/api/films/3/","https://swapi.dev/api/films/6/"],"species":[],"vehicles":["https://swapi.dev/api/vehicles/14/","https://swapi.dev/api/vehicles/30/"],"starships":["https://swapi.dev/api/starships/12/","https://swapi.dev/api/starships/22/"],"created":"2014-12-09T13:50:51.644000Z","edited":"2014-12-20T21:17:56.891000Z","url":"https://swapi.dev/api/people/1/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:38 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"ee398610435c328f4d0a4e1b0d2f7bbc"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:38.991114
+Request method: GET
+Request URL: https://swapi.dev/api/people/2/
+
+Response code: 200
+Response text: {"name":"C-3PO","height":"167","mass":"75","hair_color":"n/a","skin_color":"gold","eye_color":"yellow","birth_year":"112BBY","gender":"n/a","homeworld":"https://swapi.dev/api/planets/1/","films":["https://swapi.dev/api/films/1/","https://swapi.dev/api/films/2/","https://swapi.dev/api/films/3/","https://swapi.dev/api/films/4/","https://swapi.dev/api/films/5/","https://swapi.dev/api/films/6/"],"species":["https://swapi.dev/api/species/2/"],"vehicles":[],"starships":[],"created":"2014-12-10T15:10:51.357000Z","edited":"2014-12-20T21:17:50.309000Z","url":"https://swapi.dev/api/people/2/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:39 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"fa1358a5c603d8393431bfb632861d08"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:39.211505
+Request method: GET
+Request URL: https://swapi.dev/api/people/3/
+
+Response code: 200
+Response text: {"name":"R2-D2","height":"96","mass":"32","hair_color":"n/a","skin_color":"white, blue","eye_color":"red","birth_year":"33BBY","gender":"n/a","homeworld":"https://swapi.dev/api/planets/8/","films":["https://swapi.dev/api/films/1/","https://swapi.dev/api/films/2/","https://swapi.dev/api/films/3/","https://swapi.dev/api/films/4/","https://swapi.dev/api/films/5/","https://swapi.dev/api/films/6/"],"species":["https://swapi.dev/api/species/2/"],"vehicles":[],"starships":[],"created":"2014-12-10T15:11:50.376000Z","edited":"2014-12-20T21:17:50.311000Z","url":"https://swapi.dev/api/people/3/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:39 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"0f87c4bec3e319065be384f7ebfe9da9"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:39.593261
+Request method: GET
+Request URL: https://swapi.dev/api/people/4/
+
+Response code: 200
+Response text: {"name":"Darth Vader","height":"202","mass":"136","hair_color":"none","skin_color":"white","eye_color":"yellow","birth_year":"41.9BBY","gender":"male","homeworld":"https://swapi.dev/api/planets/1/","films":["https://swapi.dev/api/films/1/","https://swapi.dev/api/films/2/","https://swapi.dev/api/films/3/","https://swapi.dev/api/films/6/"],"species":[],"vehicles":[],"starships":["https://swapi.dev/api/starships/13/"],"created":"2014-12-10T15:18:20.704000Z","edited":"2014-12-20T21:17:50.313000Z","url":"https://swapi.dev/api/people/4/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:39 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"3bd6683da4bf9ac731386ed3fa8ce8fc"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:39.988994
+Request method: GET
+Request URL: https://swapi.dev/api/people/5/
+
+Response code: 200
+Response text: {"name":"Leia Organa","height":"150","mass":"49","hair_color":"brown","skin_color":"light","eye_color":"brown","birth_year":"19BBY","gender":"female","homeworld":"https://swapi.dev/api/planets/2/","films":["https://swapi.dev/api/films/1/","https://swapi.dev/api/films/2/","https://swapi.dev/api/films/3/","https://swapi.dev/api/films/6/"],"species":[],"vehicles":["https://swapi.dev/api/vehicles/30/"],"starships":[],"created":"2014-12-10T15:20:09.791000Z","edited":"2014-12-20T21:17:50.315000Z","url":"https://swapi.dev/api/people/5/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:40 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"e26d79104f61b8e3e61eec7fe30ddade"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:40.356860
+Request method: GET
+Request URL: https://swapi.dev/api/people/10/
+
+Response code: 200
+Response text: {"name":"Obi-Wan Kenobi","height":"182","mass":"77","hair_color":"auburn, white","skin_color":"fair","eye_color":"blue-gray","birth_year":"57BBY","gender":"male","homeworld":"https://swapi.dev/api/planets/20/","films":["https://swapi.dev/api/films/1/","https://swapi.dev/api/films/2/","https://swapi.dev/api/films/3/","https://swapi.dev/api/films/4/","https://swapi.dev/api/films/5/","https://swapi.dev/api/films/6/"],"species":[],"vehicles":["https://swapi.dev/api/vehicles/38/"],"starships":["https://swapi.dev/api/starships/48/","https://swapi.dev/api/starships/59/","https://swapi.dev/api/starships/64/","https://swapi.dev/api/starships/65/","https://swapi.dev/api/starships/74/"],"created":"2014-12-10T16:16:29.192000Z","edited":"2014-12-20T21:17:50.325000Z","url":"https://swapi.dev/api/people/10/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:40 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"cb2560521268c820fb026924d6c8a800"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:40.601632
+Request method: GET
+Request URL: https://swapi.dev/api/people/13/
+
+Response code: 200
+Response text: {"name":"Chewbacca","height":"228","mass":"112","hair_color":"brown","skin_color":"unknown","eye_color":"blue","birth_year":"200BBY","gender":"male","homeworld":"https://swapi.dev/api/planets/14/","films":["https://swapi.dev/api/films/1/","https://swapi.dev/api/films/2/","https://swapi.dev/api/films/3/","https://swapi.dev/api/films/6/"],"species":["https://swapi.dev/api/species/3/"],"vehicles":["https://swapi.dev/api/vehicles/19/"],"starships":["https://swapi.dev/api/starships/10/","https://swapi.dev/api/starships/22/"],"created":"2014-12-10T16:42:45.066000Z","edited":"2014-12-20T21:17:50.332000Z","url":"https://swapi.dev/api/people/13/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:40 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"d650397ca5f12bb7628e9fb7fac2a537"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:40.970628
+Request method: GET
+Request URL: https://swapi.dev/api/people/14/
+
+Response code: 200
+Response text: {"name":"Han Solo","height":"180","mass":"80","hair_color":"brown","skin_color":"fair","eye_color":"brown","birth_year":"29BBY","gender":"male","homeworld":"https://swapi.dev/api/planets/22/","films":["https://swapi.dev/api/films/1/","https://swapi.dev/api/films/2/","https://swapi.dev/api/films/3/"],"species":[],"vehicles":[],"starships":["https://swapi.dev/api/starships/10/","https://swapi.dev/api/starships/22/"],"created":"2014-12-10T16:49:14.582000Z","edited":"2014-12-20T21:17:50.334000Z","url":"https://swapi.dev/api/people/14/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:40 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"c2b0e81a863395462adfc75bb9c5dd50"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:41.277507
+Request method: GET
+Request URL: https://swapi.dev/api/people/18/
+
+Response code: 200
+Response text: {"name":"Wedge Antilles","height":"170","mass":"77","hair_color":"brown","skin_color":"fair","eye_color":"hazel","birth_year":"21BBY","gender":"male","homeworld":"https://swapi.dev/api/planets/22/","films":["https://swapi.dev/api/films/1/","https://swapi.dev/api/films/2/","https://swapi.dev/api/films/3/"],"species":[],"vehicles":["https://swapi.dev/api/vehicles/14/"],"starships":["https://swapi.dev/api/starships/12/"],"created":"2014-12-12T11:08:06.469000Z","edited":"2014-12-20T21:17:50.341000Z","url":"https://swapi.dev/api/people/18/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:41 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"9252fda59e2284951ff6e5e81fc54008"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:41.529724
+Request method: GET
+Request URL: https://swapi.dev/api/people/20/
+
+Response code: 200
+Response text: {"name":"Yoda","height":"66","mass":"17","hair_color":"white","skin_color":"green","eye_color":"brown","birth_year":"896BBY","gender":"male","homeworld":"https://swapi.dev/api/planets/28/","films":["https://swapi.dev/api/films/2/","https://swapi.dev/api/films/3/","https://swapi.dev/api/films/4/","https://swapi.dev/api/films/5/","https://swapi.dev/api/films/6/"],"species":["https://swapi.dev/api/species/6/"],"vehicles":[],"starships":[],"created":"2014-12-15T12:26:01.042000Z","edited":"2014-12-20T21:17:50.345000Z","url":"https://swapi.dev/api/people/20/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:41 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"fdfe369e3ac2a503ce5d4529eea0ea40"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:41.830819
+Request method: GET
+Request URL: https://swapi.dev/api/people/21/
+
+Response code: 200
+Response text: {"name":"Palpatine","height":"170","mass":"75","hair_color":"grey","skin_color":"pale","eye_color":"yellow","birth_year":"82BBY","gender":"male","homeworld":"https://swapi.dev/api/planets/8/","films":["https://swapi.dev/api/films/2/","https://swapi.dev/api/films/3/","https://swapi.dev/api/films/4/","https://swapi.dev/api/films/5/","https://swapi.dev/api/films/6/"],"species":[],"vehicles":[],"starships":[],"created":"2014-12-15T12:48:05.971000Z","edited":"2014-12-20T21:17:50.347000Z","url":"https://swapi.dev/api/people/21/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:41 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"d3665056d2202342964c345a9159f140"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:42.138197
+Request method: GET
+Request URL: https://swapi.dev/api/people/22/
+
+Response code: 200
+Response text: {"name":"Boba Fett","height":"183","mass":"78.2","hair_color":"black","skin_color":"fair","eye_color":"brown","birth_year":"31.5BBY","gender":"male","homeworld":"https://swapi.dev/api/planets/10/","films":["https://swapi.dev/api/films/2/","https://swapi.dev/api/films/3/","https://swapi.dev/api/films/5/"],"species":[],"vehicles":[],"starships":["https://swapi.dev/api/starships/21/"],"created":"2014-12-15T12:49:32.457000Z","edited":"2014-12-20T21:17:50.349000Z","url":"https://swapi.dev/api/people/22/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:42 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"9fba96473b2240e4cd6bf377774950b9"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:42.511538
+Request method: GET
+Request URL: https://swapi.dev/api/people/23/
+
+Response code: 200
+Response text: {"name":"IG-88","height":"200","mass":"140","hair_color":"none","skin_color":"metal","eye_color":"red","birth_year":"15BBY","gender":"none","homeworld":"https://swapi.dev/api/planets/28/","films":["https://swapi.dev/api/films/2/"],"species":["https://swapi.dev/api/species/2/"],"vehicles":[],"starships":[],"created":"2014-12-15T12:51:10.076000Z","edited":"2014-12-20T21:17:50.351000Z","url":"https://swapi.dev/api/people/23/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:42 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"e483fc8494af88c6c4ea4abfeff07c83"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:42.890091
+Request method: GET
+Request URL: https://swapi.dev/api/people/24/
+
+Response code: 200
+Response text: {"name":"Bossk","height":"190","mass":"113","hair_color":"none","skin_color":"green","eye_color":"red","birth_year":"53BBY","gender":"male","homeworld":"https://swapi.dev/api/planets/29/","films":["https://swapi.dev/api/films/2/"],"species":["https://swapi.dev/api/species/7/"],"vehicles":[],"starships":[],"created":"2014-12-15T12:53:49.297000Z","edited":"2014-12-20T21:17:50.355000Z","url":"https://swapi.dev/api/people/24/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:42 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"cf1d91e6d4fc820ccd1aa4559ca6cda6"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:43.416359
+Request method: GET
+Request URL: https://swapi.dev/api/people/25/
+
+Response code: 200
+Response text: {"name":"Lando Calrissian","height":"177","mass":"79","hair_color":"black","skin_color":"dark","eye_color":"brown","birth_year":"31BBY","gender":"male","homeworld":"https://swapi.dev/api/planets/30/","films":["https://swapi.dev/api/films/2/","https://swapi.dev/api/films/3/"],"species":[],"vehicles":[],"starships":["https://swapi.dev/api/starships/10/"],"created":"2014-12-15T12:56:32.683000Z","edited":"2014-12-20T21:17:50.357000Z","url":"https://swapi.dev/api/people/25/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:43 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"459a1c1120ea727bfcd3cd0576a06385"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:43.797828
+Request method: GET
+Request URL: https://swapi.dev/api/people/26/
+
+Response code: 200
+Response text: {"name":"Lobot","height":"175","mass":"79","hair_color":"none","skin_color":"light","eye_color":"blue","birth_year":"37BBY","gender":"male","homeworld":"https://swapi.dev/api/planets/6/","films":["https://swapi.dev/api/films/2/"],"species":[],"vehicles":[],"starships":[],"created":"2014-12-15T13:01:57.178000Z","edited":"2014-12-20T21:17:50.359000Z","url":"https://swapi.dev/api/people/26/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:43 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"a7950f539e8c04e7c00004926394d531"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:44.103830
+Request method: GET
+Request URL: https://swapi.dev/api/films/3/
+
+Response code: 200
+Response text: {"title":"Return of the Jedi","episode_id":6,"opening_crawl":"Luke Skywalker has returned to\r\nhis home planet of Tatooine in\r\nan attempt to rescue his\r\nfriend Han Solo from the\r\nclutches of the vile gangster\r\nJabba the Hutt.\r\n\r\nLittle does Luke know that the\r\nGALACTIC EMPIRE has secretly\r\nbegun construction on a new\r\narmored space station even\r\nmore powerful than the first\r\ndreaded Death Star.\r\n\r\nWhen completed, this ultimate\r\nweapon will spell certain doom\r\nfor the small band of rebels\r\nstruggling to restore freedom\r\nto the galaxy...","director":"Richard Marquand","producer":"Howard G. Kazanjian, George Lucas, Rick McCallum","release_date":"1983-05-25","characters":["https://swapi.dev/api/people/1/","https://swapi.dev/api/people/2/","https://swapi.dev/api/people/3/","https://swapi.dev/api/people/4/","https://swapi.dev/api/people/5/","https://swapi.dev/api/people/10/","https://swapi.dev/api/people/13/","https://swapi.dev/api/people/14/","https://swapi.dev/api/people/16/","https://swapi.dev/api/people/18/","https://swapi.dev/api/people/20/","https://swapi.dev/api/people/21/","https://swapi.dev/api/people/22/","https://swapi.dev/api/people/25/","https://swapi.dev/api/people/27/","https://swapi.dev/api/people/28/","https://swapi.dev/api/people/29/","https://swapi.dev/api/people/30/","https://swapi.dev/api/people/31/","https://swapi.dev/api/people/45/"],"planets":["https://swapi.dev/api/planets/1/","https://swapi.dev/api/planets/5/","https://swapi.dev/api/planets/7/","https://swapi.dev/api/planets/8/","https://swapi.dev/api/planets/9/"],"starships":["https://swapi.dev/api/starships/2/","https://swapi.dev/api/starships/3/","https://swapi.dev/api/starships/10/","https://swapi.dev/api/starships/11/","https://swapi.dev/api/starships/12/","https://swapi.dev/api/starships/15/","https://swapi.dev/api/starships/17/","https://swapi.dev/api/starships/22/","https://swapi.dev/api/starships/23/","https://swapi.dev/api/starships/27/","https://swapi.dev/api/starships/28/","https://swapi.dev/api/starships/29/"],"vehicles":["https://swapi.dev/api/vehicles/8/","https://swapi.dev/api/vehicles/16/","https://swapi.dev/api/vehicles/18/","https://swapi.dev/api/vehicles/19/","https://swapi.dev/api/vehicles/24/","https://swapi.dev/api/vehicles/25/","https://swapi.dev/api/vehicles/26/","https://swapi.dev/api/vehicles/30/"],"species":["https://swapi.dev/api/species/1/","https://swapi.dev/api/species/2/","https://swapi.dev/api/species/3/","https://swapi.dev/api/species/5/","https://swapi.dev/api/species/6/","https://swapi.dev/api/species/8/","https://swapi.dev/api/species/9/","https://swapi.dev/api/species/10/","https://swapi.dev/api/species/15/"],"created":"2014-12-18T10:39:33.255000Z","edited":"2014-12-20T09:48:37.462000Z","url":"https://swapi.dev/api/films/3/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:44 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"d24de9ccc835db2d65d39428fccdb7b2"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:44.721181
+Request method: GET
+Request URL: https://swapi.dev/api/people/1/
+
+Response code: 200
+Response text: {"name":"Luke Skywalker","height":"172","mass":"77","hair_color":"blond","skin_color":"fair","eye_color":"blue","birth_year":"19BBY","gender":"male","homeworld":"https://swapi.dev/api/planets/1/","films":["https://swapi.dev/api/films/1/","https://swapi.dev/api/films/2/","https://swapi.dev/api/films/3/","https://swapi.dev/api/films/6/"],"species":[],"vehicles":["https://swapi.dev/api/vehicles/14/","https://swapi.dev/api/vehicles/30/"],"starships":["https://swapi.dev/api/starships/12/","https://swapi.dev/api/starships/22/"],"created":"2014-12-09T13:50:51.644000Z","edited":"2014-12-20T21:17:56.891000Z","url":"https://swapi.dev/api/people/1/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:44 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"ee398610435c328f4d0a4e1b0d2f7bbc"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:45.211178
+Request method: GET
+Request URL: https://swapi.dev/api/people/2/
+
+Response code: 200
+Response text: {"name":"C-3PO","height":"167","mass":"75","hair_color":"n/a","skin_color":"gold","eye_color":"yellow","birth_year":"112BBY","gender":"n/a","homeworld":"https://swapi.dev/api/planets/1/","films":["https://swapi.dev/api/films/1/","https://swapi.dev/api/films/2/","https://swapi.dev/api/films/3/","https://swapi.dev/api/films/4/","https://swapi.dev/api/films/5/","https://swapi.dev/api/films/6/"],"species":["https://swapi.dev/api/species/2/"],"vehicles":[],"starships":[],"created":"2014-12-10T15:10:51.357000Z","edited":"2014-12-20T21:17:50.309000Z","url":"https://swapi.dev/api/people/2/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:45 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"fa1358a5c603d8393431bfb632861d08"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:45.700859
+Request method: GET
+Request URL: https://swapi.dev/api/people/3/
+
+Response code: 200
+Response text: {"name":"R2-D2","height":"96","mass":"32","hair_color":"n/a","skin_color":"white, blue","eye_color":"red","birth_year":"33BBY","gender":"n/a","homeworld":"https://swapi.dev/api/planets/8/","films":["https://swapi.dev/api/films/1/","https://swapi.dev/api/films/2/","https://swapi.dev/api/films/3/","https://swapi.dev/api/films/4/","https://swapi.dev/api/films/5/","https://swapi.dev/api/films/6/"],"species":["https://swapi.dev/api/species/2/"],"vehicles":[],"starships":[],"created":"2014-12-10T15:11:50.376000Z","edited":"2014-12-20T21:17:50.311000Z","url":"https://swapi.dev/api/people/3/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:45 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"0f87c4bec3e319065be384f7ebfe9da9"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:46.196152
+Request method: GET
+Request URL: https://swapi.dev/api/people/4/
+
+Response code: 200
+Response text: {"name":"Darth Vader","height":"202","mass":"136","hair_color":"none","skin_color":"white","eye_color":"yellow","birth_year":"41.9BBY","gender":"male","homeworld":"https://swapi.dev/api/planets/1/","films":["https://swapi.dev/api/films/1/","https://swapi.dev/api/films/2/","https://swapi.dev/api/films/3/","https://swapi.dev/api/films/6/"],"species":[],"vehicles":[],"starships":["https://swapi.dev/api/starships/13/"],"created":"2014-12-10T15:18:20.704000Z","edited":"2014-12-20T21:17:50.313000Z","url":"https://swapi.dev/api/people/4/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:46 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"3bd6683da4bf9ac731386ed3fa8ce8fc"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:46.502100
+Request method: GET
+Request URL: https://swapi.dev/api/people/5/
+
+Response code: 200
+Response text: {"name":"Leia Organa","height":"150","mass":"49","hair_color":"brown","skin_color":"light","eye_color":"brown","birth_year":"19BBY","gender":"female","homeworld":"https://swapi.dev/api/planets/2/","films":["https://swapi.dev/api/films/1/","https://swapi.dev/api/films/2/","https://swapi.dev/api/films/3/","https://swapi.dev/api/films/6/"],"species":[],"vehicles":["https://swapi.dev/api/vehicles/30/"],"starships":[],"created":"2014-12-10T15:20:09.791000Z","edited":"2014-12-20T21:17:50.315000Z","url":"https://swapi.dev/api/people/5/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:46 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"e26d79104f61b8e3e61eec7fe30ddade"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:46.808554
+Request method: GET
+Request URL: https://swapi.dev/api/people/10/
+
+Response code: 200
+Response text: {"name":"Obi-Wan Kenobi","height":"182","mass":"77","hair_color":"auburn, white","skin_color":"fair","eye_color":"blue-gray","birth_year":"57BBY","gender":"male","homeworld":"https://swapi.dev/api/planets/20/","films":["https://swapi.dev/api/films/1/","https://swapi.dev/api/films/2/","https://swapi.dev/api/films/3/","https://swapi.dev/api/films/4/","https://swapi.dev/api/films/5/","https://swapi.dev/api/films/6/"],"species":[],"vehicles":["https://swapi.dev/api/vehicles/38/"],"starships":["https://swapi.dev/api/starships/48/","https://swapi.dev/api/starships/59/","https://swapi.dev/api/starships/64/","https://swapi.dev/api/starships/65/","https://swapi.dev/api/starships/74/"],"created":"2014-12-10T16:16:29.192000Z","edited":"2014-12-20T21:17:50.325000Z","url":"https://swapi.dev/api/people/10/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:46 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"cb2560521268c820fb026924d6c8a800"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:47.114623
+Request method: GET
+Request URL: https://swapi.dev/api/people/13/
+
+Response code: 200
+Response text: {"name":"Chewbacca","height":"228","mass":"112","hair_color":"brown","skin_color":"unknown","eye_color":"blue","birth_year":"200BBY","gender":"male","homeworld":"https://swapi.dev/api/planets/14/","films":["https://swapi.dev/api/films/1/","https://swapi.dev/api/films/2/","https://swapi.dev/api/films/3/","https://swapi.dev/api/films/6/"],"species":["https://swapi.dev/api/species/3/"],"vehicles":["https://swapi.dev/api/vehicles/19/"],"starships":["https://swapi.dev/api/starships/10/","https://swapi.dev/api/starships/22/"],"created":"2014-12-10T16:42:45.066000Z","edited":"2014-12-20T21:17:50.332000Z","url":"https://swapi.dev/api/people/13/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:47 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"d650397ca5f12bb7628e9fb7fac2a537"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:47.608705
+Request method: GET
+Request URL: https://swapi.dev/api/people/14/
+
+Response code: 200
+Response text: {"name":"Han Solo","height":"180","mass":"80","hair_color":"brown","skin_color":"fair","eye_color":"brown","birth_year":"29BBY","gender":"male","homeworld":"https://swapi.dev/api/planets/22/","films":["https://swapi.dev/api/films/1/","https://swapi.dev/api/films/2/","https://swapi.dev/api/films/3/"],"species":[],"vehicles":[],"starships":["https://swapi.dev/api/starships/10/","https://swapi.dev/api/starships/22/"],"created":"2014-12-10T16:49:14.582000Z","edited":"2014-12-20T21:17:50.334000Z","url":"https://swapi.dev/api/people/14/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:47 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"c2b0e81a863395462adfc75bb9c5dd50"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:47.913595
+Request method: GET
+Request URL: https://swapi.dev/api/people/16/
+
+Response code: 200
+Response text: {"name":"Jabba Desilijic Tiure","height":"175","mass":"1,358","hair_color":"n/a","skin_color":"green-tan, brown","eye_color":"orange","birth_year":"600BBY","gender":"hermaphrodite","homeworld":"https://swapi.dev/api/planets/24/","films":["https://swapi.dev/api/films/1/","https://swapi.dev/api/films/3/","https://swapi.dev/api/films/4/"],"species":["https://swapi.dev/api/species/5/"],"vehicles":[],"starships":[],"created":"2014-12-10T17:11:31.638000Z","edited":"2014-12-20T21:17:50.338000Z","url":"https://swapi.dev/api/people/16/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:47 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"c684e7d585cdded848283b4c2414f4d5"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:48.222180
+Request method: GET
+Request URL: https://swapi.dev/api/people/18/
+
+Response code: 200
+Response text: {"name":"Wedge Antilles","height":"170","mass":"77","hair_color":"brown","skin_color":"fair","eye_color":"hazel","birth_year":"21BBY","gender":"male","homeworld":"https://swapi.dev/api/planets/22/","films":["https://swapi.dev/api/films/1/","https://swapi.dev/api/films/2/","https://swapi.dev/api/films/3/"],"species":[],"vehicles":["https://swapi.dev/api/vehicles/14/"],"starships":["https://swapi.dev/api/starships/12/"],"created":"2014-12-12T11:08:06.469000Z","edited":"2014-12-20T21:17:50.341000Z","url":"https://swapi.dev/api/people/18/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:48 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"9252fda59e2284951ff6e5e81fc54008"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:48.443650
+Request method: GET
+Request URL: https://swapi.dev/api/people/20/
+
+Response code: 200
+Response text: {"name":"Yoda","height":"66","mass":"17","hair_color":"white","skin_color":"green","eye_color":"brown","birth_year":"896BBY","gender":"male","homeworld":"https://swapi.dev/api/planets/28/","films":["https://swapi.dev/api/films/2/","https://swapi.dev/api/films/3/","https://swapi.dev/api/films/4/","https://swapi.dev/api/films/5/","https://swapi.dev/api/films/6/"],"species":["https://swapi.dev/api/species/6/"],"vehicles":[],"starships":[],"created":"2014-12-15T12:26:01.042000Z","edited":"2014-12-20T21:17:50.345000Z","url":"https://swapi.dev/api/people/20/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:48 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"fdfe369e3ac2a503ce5d4529eea0ea40"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:48.711969
+Request method: GET
+Request URL: https://swapi.dev/api/people/21/
+
+Response code: 200
+Response text: {"name":"Palpatine","height":"170","mass":"75","hair_color":"grey","skin_color":"pale","eye_color":"yellow","birth_year":"82BBY","gender":"male","homeworld":"https://swapi.dev/api/planets/8/","films":["https://swapi.dev/api/films/2/","https://swapi.dev/api/films/3/","https://swapi.dev/api/films/4/","https://swapi.dev/api/films/5/","https://swapi.dev/api/films/6/"],"species":[],"vehicles":[],"starships":[],"created":"2014-12-15T12:48:05.971000Z","edited":"2014-12-20T21:17:50.347000Z","url":"https://swapi.dev/api/people/21/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:48 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"d3665056d2202342964c345a9159f140"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:49.021114
+Request method: GET
+Request URL: https://swapi.dev/api/people/22/
+
+Response code: 200
+Response text: {"name":"Boba Fett","height":"183","mass":"78.2","hair_color":"black","skin_color":"fair","eye_color":"brown","birth_year":"31.5BBY","gender":"male","homeworld":"https://swapi.dev/api/planets/10/","films":["https://swapi.dev/api/films/2/","https://swapi.dev/api/films/3/","https://swapi.dev/api/films/5/"],"species":[],"vehicles":[],"starships":["https://swapi.dev/api/starships/21/"],"created":"2014-12-15T12:49:32.457000Z","edited":"2014-12-20T21:17:50.349000Z","url":"https://swapi.dev/api/people/22/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:49 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"9fba96473b2240e4cd6bf377774950b9"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:49.338094
+Request method: GET
+Request URL: https://swapi.dev/api/people/25/
+
+Response code: 200
+Response text: {"name":"Lando Calrissian","height":"177","mass":"79","hair_color":"black","skin_color":"dark","eye_color":"brown","birth_year":"31BBY","gender":"male","homeworld":"https://swapi.dev/api/planets/30/","films":["https://swapi.dev/api/films/2/","https://swapi.dev/api/films/3/"],"species":[],"vehicles":[],"starships":["https://swapi.dev/api/starships/10/"],"created":"2014-12-15T12:56:32.683000Z","edited":"2014-12-20T21:17:50.357000Z","url":"https://swapi.dev/api/people/25/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:49 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"459a1c1120ea727bfcd3cd0576a06385"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:49.551042
+Request method: GET
+Request URL: https://swapi.dev/api/people/27/
+
+Response code: 200
+Response text: {"name":"Ackbar","height":"180","mass":"83","hair_color":"none","skin_color":"brown mottle","eye_color":"orange","birth_year":"41BBY","gender":"male","homeworld":"https://swapi.dev/api/planets/31/","films":["https://swapi.dev/api/films/3/"],"species":["https://swapi.dev/api/species/8/"],"vehicles":[],"starships":[],"created":"2014-12-18T11:07:50.584000Z","edited":"2014-12-20T21:17:50.362000Z","url":"https://swapi.dev/api/people/27/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:49 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"d83d6c3a2a090a5d04910ece74029344"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:49.941590
+Request method: GET
+Request URL: https://swapi.dev/api/people/28/
+
+Response code: 200
+Response text: {"name":"Mon Mothma","height":"150","mass":"unknown","hair_color":"auburn","skin_color":"fair","eye_color":"blue","birth_year":"48BBY","gender":"female","homeworld":"https://swapi.dev/api/planets/32/","films":["https://swapi.dev/api/films/3/"],"species":[],"vehicles":[],"starships":[],"created":"2014-12-18T11:12:38.895000Z","edited":"2014-12-20T21:17:50.364000Z","url":"https://swapi.dev/api/people/28/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:50 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"4843394fa211d7c5efb3a1d75148dd37"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:50.309645
+Request method: GET
+Request URL: https://swapi.dev/api/people/29/
+
+Response code: 200
+Response text: {"name":"Arvel Crynyd","height":"unknown","mass":"unknown","hair_color":"brown","skin_color":"fair","eye_color":"brown","birth_year":"unknown","gender":"male","homeworld":"https://swapi.dev/api/planets/28/","films":["https://swapi.dev/api/films/3/"],"species":[],"vehicles":[],"starships":["https://swapi.dev/api/starships/28/"],"created":"2014-12-18T11:16:33.020000Z","edited":"2014-12-20T21:17:50.367000Z","url":"https://swapi.dev/api/people/29/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:50 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"79c8533bff13aa979d06dea93b86f975"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:50.617654
+Request method: GET
+Request URL: https://swapi.dev/api/people/30/
+
+Response code: 200
+Response text: {"name":"Wicket Systri Warrick","height":"88","mass":"20","hair_color":"brown","skin_color":"brown","eye_color":"brown","birth_year":"8BBY","gender":"male","homeworld":"https://swapi.dev/api/planets/7/","films":["https://swapi.dev/api/films/3/"],"species":["https://swapi.dev/api/species/9/"],"vehicles":[],"starships":[],"created":"2014-12-18T11:21:58.954000Z","edited":"2014-12-20T21:17:50.369000Z","url":"https://swapi.dev/api/people/30/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:50 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"eca2fce787471c70e47ade74b532065f"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:51.046843
+Request method: GET
+Request URL: https://swapi.dev/api/people/31/
+
+Response code: 200
+Response text: {"name":"Nien Nunb","height":"160","mass":"68","hair_color":"none","skin_color":"grey","eye_color":"black","birth_year":"unknown","gender":"male","homeworld":"https://swapi.dev/api/planets/33/","films":["https://swapi.dev/api/films/3/"],"species":["https://swapi.dev/api/species/10/"],"vehicles":[],"starships":["https://swapi.dev/api/starships/10/"],"created":"2014-12-18T11:26:18.541000Z","edited":"2014-12-20T21:17:50.371000Z","url":"https://swapi.dev/api/people/31/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:51 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"fd5a14b779eb7b49d2cb014ce9887f7a"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:51.416548
+Request method: GET
+Request URL: https://swapi.dev/api/people/45/
+
+Response code: 200
+Response text: {"name":"Bib Fortuna","height":"180","mass":"unknown","hair_color":"none","skin_color":"pale","eye_color":"pink","birth_year":"unknown","gender":"male","homeworld":"https://swapi.dev/api/planets/37/","films":["https://swapi.dev/api/films/3/"],"species":["https://swapi.dev/api/species/15/"],"vehicles":[],"starships":[],"created":"2014-12-20T09:47:02.512000Z","edited":"2014-12-20T21:17:50.407000Z","url":"https://swapi.dev/api/people/45/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:51 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"dfc8e672c4d4f7c944ebb07d6a192796"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:51.845543
+Request method: GET
+Request URL: https://swapi.dev/api/films/6/
+
+Response code: 200
+Response text: {"title":"Revenge of the Sith","episode_id":3,"opening_crawl":"War! The Republic is crumbling\r\nunder attacks by the ruthless\r\nSith Lord, Count Dooku.\r\nThere are heroes on both sides.\r\nEvil is everywhere.\r\n\r\nIn a stunning move, the\r\nfiendish droid leader, General\r\nGrievous, has swept into the\r\nRepublic capital and kidnapped\r\nChancellor Palpatine, leader of\r\nthe Galactic Senate.\r\n\r\nAs the Separatist Droid Army\r\nattempts to flee the besieged\r\ncapital with their valuable\r\nhostage, two Jedi Knights lead a\r\ndesperate mission to rescue the\r\ncaptive Chancellor....","director":"George Lucas","producer":"Rick McCallum","release_date":"2005-05-19","characters":["https://swapi.dev/api/people/1/","https://swapi.dev/api/people/2/","https://swapi.dev/api/people/3/","https://swapi.dev/api/people/4/","https://swapi.dev/api/people/5/","https://swapi.dev/api/people/6/","https://swapi.dev/api/people/7/","https://swapi.dev/api/people/10/","https://swapi.dev/api/people/11/","https://swapi.dev/api/people/12/","https://swapi.dev/api/people/13/","https://swapi.dev/api/people/20/","https://swapi.dev/api/people/21/","https://swapi.dev/api/people/33/","https://swapi.dev/api/people/35/","https://swapi.dev/api/people/46/","https://swapi.dev/api/people/51/","https://swapi.dev/api/people/52/","https://swapi.dev/api/people/53/","https://swapi.dev/api/people/54/","https://swapi.dev/api/people/55/","https://swapi.dev/api/people/56/","https://swapi.dev/api/people/58/","https://swapi.dev/api/people/63/","https://swapi.dev/api/people/64/","https://swapi.dev/api/people/67/","https://swapi.dev/api/people/68/","https://swapi.dev/api/people/75/","https://swapi.dev/api/people/78/","https://swapi.dev/api/people/79/","https://swapi.dev/api/people/80/","https://swapi.dev/api/people/81/","https://swapi.dev/api/people/82/","https://swapi.dev/api/people/83/"],"planets":["https://swapi.dev/api/planets/1/","https://swapi.dev/api/planets/2/","https://swapi.dev/api/planets/5/","https://swapi.dev/api/planets/8/","https://swapi.dev/api/planets/9/","https://swapi.dev/api/planets/12/","https://swapi.dev/api/planets/13/","https://swapi.dev/api/planets/14/","https://swapi.dev/api/planets/15/","https://swapi.dev/api/planets/16/","https://swapi.dev/api/planets/17/","https://swapi.dev/api/planets/18/","https://swapi.dev/api/planets/19/"],"starships":["https://swapi.dev/api/starships/2/","https://swapi.dev/api/starships/32/","https://swapi.dev/api/starships/48/","https://swapi.dev/api/starships/59/","https://swapi.dev/api/starships/61/","https://swapi.dev/api/starships/63/","https://swapi.dev/api/starships/64/","https://swapi.dev/api/starships/65/","https://swapi.dev/api/starships/66/","https://swapi.dev/api/starships/68/","https://swapi.dev/api/starships/74/","https://swapi.dev/api/starships/75/"],"vehicles":["https://swapi.dev/api/vehicles/33/","https://swapi.dev/api/vehicles/50/","https://swapi.dev/api/vehicles/53/","https://swapi.dev/api/vehicles/56/","https://swapi.dev/api/vehicles/60/","https://swapi.dev/api/vehicles/62/","https://swapi.dev/api/vehicles/67/","https://swapi.dev/api/vehicles/69/","https://swapi.dev/api/vehicles/70/","https://swapi.dev/api/vehicles/71/","https://swapi.dev/api/vehicles/72/","https://swapi.dev/api/vehicles/73/","https://swapi.dev/api/vehicles/76/"],"species":["https://swapi.dev/api/species/1/","https://swapi.dev/api/species/2/","https://swapi.dev/api/species/3/","https://swapi.dev/api/species/6/","https://swapi.dev/api/species/15/","https://swapi.dev/api/species/19/","https://swapi.dev/api/species/20/","https://swapi.dev/api/species/23/","https://swapi.dev/api/species/24/","https://swapi.dev/api/species/25/","https://swapi.dev/api/species/26/","https://swapi.dev/api/species/27/","https://swapi.dev/api/species/28/","https://swapi.dev/api/species/29/","https://swapi.dev/api/species/30/","https://swapi.dev/api/species/33/","https://swapi.dev/api/species/34/","https://swapi.dev/api/species/35/","https://swapi.dev/api/species/36/","https://swapi.dev/api/species/37/"],"created":"2014-12-20T18:49:38.403000Z","edited":"2014-12-20T20:47:52.073000Z","url":"https://swapi.dev/api/films/6/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:52 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"44d49aabf0aeb3c3ae58663e71d9e164"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:52.339412
+Request method: GET
+Request URL: https://swapi.dev/api/people/1/
+
+Response code: 200
+Response text: {"name":"Luke Skywalker","height":"172","mass":"77","hair_color":"blond","skin_color":"fair","eye_color":"blue","birth_year":"19BBY","gender":"male","homeworld":"https://swapi.dev/api/planets/1/","films":["https://swapi.dev/api/films/1/","https://swapi.dev/api/films/2/","https://swapi.dev/api/films/3/","https://swapi.dev/api/films/6/"],"species":[],"vehicles":["https://swapi.dev/api/vehicles/14/","https://swapi.dev/api/vehicles/30/"],"starships":["https://swapi.dev/api/starships/12/","https://swapi.dev/api/starships/22/"],"created":"2014-12-09T13:50:51.644000Z","edited":"2014-12-20T21:17:56.891000Z","url":"https://swapi.dev/api/people/1/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:52 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"ee398610435c328f4d0a4e1b0d2f7bbc"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:53.320286
+Request method: GET
+Request URL: https://swapi.dev/api/people/2/
+
+Response code: 200
+Response text: {"name":"C-3PO","height":"167","mass":"75","hair_color":"n/a","skin_color":"gold","eye_color":"yellow","birth_year":"112BBY","gender":"n/a","homeworld":"https://swapi.dev/api/planets/1/","films":["https://swapi.dev/api/films/1/","https://swapi.dev/api/films/2/","https://swapi.dev/api/films/3/","https://swapi.dev/api/films/4/","https://swapi.dev/api/films/5/","https://swapi.dev/api/films/6/"],"species":["https://swapi.dev/api/species/2/"],"vehicles":[],"starships":[],"created":"2014-12-10T15:10:51.357000Z","edited":"2014-12-20T21:17:50.309000Z","url":"https://swapi.dev/api/people/2/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:53 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"fa1358a5c603d8393431bfb632861d08"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:53.628287
+Request method: GET
+Request URL: https://swapi.dev/api/people/3/
+
+Response code: 200
+Response text: {"name":"R2-D2","height":"96","mass":"32","hair_color":"n/a","skin_color":"white, blue","eye_color":"red","birth_year":"33BBY","gender":"n/a","homeworld":"https://swapi.dev/api/planets/8/","films":["https://swapi.dev/api/films/1/","https://swapi.dev/api/films/2/","https://swapi.dev/api/films/3/","https://swapi.dev/api/films/4/","https://swapi.dev/api/films/5/","https://swapi.dev/api/films/6/"],"species":["https://swapi.dev/api/species/2/"],"vehicles":[],"starships":[],"created":"2014-12-10T15:11:50.376000Z","edited":"2014-12-20T21:17:50.311000Z","url":"https://swapi.dev/api/people/3/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:53 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"0f87c4bec3e319065be384f7ebfe9da9"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:53.996309
+Request method: GET
+Request URL: https://swapi.dev/api/people/4/
+
+Response code: 200
+Response text: {"name":"Darth Vader","height":"202","mass":"136","hair_color":"none","skin_color":"white","eye_color":"yellow","birth_year":"41.9BBY","gender":"male","homeworld":"https://swapi.dev/api/planets/1/","films":["https://swapi.dev/api/films/1/","https://swapi.dev/api/films/2/","https://swapi.dev/api/films/3/","https://swapi.dev/api/films/6/"],"species":[],"vehicles":[],"starships":["https://swapi.dev/api/starships/13/"],"created":"2014-12-10T15:18:20.704000Z","edited":"2014-12-20T21:17:50.313000Z","url":"https://swapi.dev/api/people/4/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:54 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"3bd6683da4bf9ac731386ed3fa8ce8fc"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:54.304211
+Request method: GET
+Request URL: https://swapi.dev/api/people/5/
+
+Response code: 200
+Response text: {"name":"Leia Organa","height":"150","mass":"49","hair_color":"brown","skin_color":"light","eye_color":"brown","birth_year":"19BBY","gender":"female","homeworld":"https://swapi.dev/api/planets/2/","films":["https://swapi.dev/api/films/1/","https://swapi.dev/api/films/2/","https://swapi.dev/api/films/3/","https://swapi.dev/api/films/6/"],"species":[],"vehicles":["https://swapi.dev/api/vehicles/30/"],"starships":[],"created":"2014-12-10T15:20:09.791000Z","edited":"2014-12-20T21:17:50.315000Z","url":"https://swapi.dev/api/people/5/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:54 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"e26d79104f61b8e3e61eec7fe30ddade"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:54.733416
+Request method: GET
+Request URL: https://swapi.dev/api/people/6/
+
+Response code: 200
+Response text: {"name":"Owen Lars","height":"178","mass":"120","hair_color":"brown, grey","skin_color":"light","eye_color":"blue","birth_year":"52BBY","gender":"male","homeworld":"https://swapi.dev/api/planets/1/","films":["https://swapi.dev/api/films/1/","https://swapi.dev/api/films/5/","https://swapi.dev/api/films/6/"],"species":[],"vehicles":[],"starships":[],"created":"2014-12-10T15:52:14.024000Z","edited":"2014-12-20T21:17:50.317000Z","url":"https://swapi.dev/api/people/6/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:54 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"2e6a32a4abd77976919885e2c7d3e78f"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:54.958294
+Request method: GET
+Request URL: https://swapi.dev/api/people/7/
+
+Response code: 200
+Response text: {"name":"Beru Whitesun lars","height":"165","mass":"75","hair_color":"brown","skin_color":"light","eye_color":"blue","birth_year":"47BBY","gender":"female","homeworld":"https://swapi.dev/api/planets/1/","films":["https://swapi.dev/api/films/1/","https://swapi.dev/api/films/5/","https://swapi.dev/api/films/6/"],"species":[],"vehicles":[],"starships":[],"created":"2014-12-10T15:53:41.121000Z","edited":"2014-12-20T21:17:50.319000Z","url":"https://swapi.dev/api/people/7/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:54 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"5a5c7c3ec3f4a0d9bd768f61e181c293"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:55.183652
+Request method: GET
+Request URL: https://swapi.dev/api/people/10/
+
+Response code: 200
+Response text: {"name":"Obi-Wan Kenobi","height":"182","mass":"77","hair_color":"auburn, white","skin_color":"fair","eye_color":"blue-gray","birth_year":"57BBY","gender":"male","homeworld":"https://swapi.dev/api/planets/20/","films":["https://swapi.dev/api/films/1/","https://swapi.dev/api/films/2/","https://swapi.dev/api/films/3/","https://swapi.dev/api/films/4/","https://swapi.dev/api/films/5/","https://swapi.dev/api/films/6/"],"species":[],"vehicles":["https://swapi.dev/api/vehicles/38/"],"starships":["https://swapi.dev/api/starships/48/","https://swapi.dev/api/starships/59/","https://swapi.dev/api/starships/64/","https://swapi.dev/api/starships/65/","https://swapi.dev/api/starships/74/"],"created":"2014-12-10T16:16:29.192000Z","edited":"2014-12-20T21:17:50.325000Z","url":"https://swapi.dev/api/people/10/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:55 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"cb2560521268c820fb026924d6c8a800"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:55.655465
+Request method: GET
+Request URL: https://swapi.dev/api/people/11/
+
+Response code: 200
+Response text: {"name":"Anakin Skywalker","height":"188","mass":"84","hair_color":"blond","skin_color":"fair","eye_color":"blue","birth_year":"41.9BBY","gender":"male","homeworld":"https://swapi.dev/api/planets/1/","films":["https://swapi.dev/api/films/4/","https://swapi.dev/api/films/5/","https://swapi.dev/api/films/6/"],"species":[],"vehicles":["https://swapi.dev/api/vehicles/44/","https://swapi.dev/api/vehicles/46/"],"starships":["https://swapi.dev/api/starships/39/","https://swapi.dev/api/starships/59/","https://swapi.dev/api/starships/65/"],"created":"2014-12-10T16:20:44.310000Z","edited":"2014-12-20T21:17:50.327000Z","url":"https://swapi.dev/api/people/11/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:55 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"44d26eb1ef44a8d079141b81fa92a322"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:55.972156
+Request method: GET
+Request URL: https://swapi.dev/api/people/12/
+
+Response code: 200
+Response text: {"name":"Wilhuff Tarkin","height":"180","mass":"unknown","hair_color":"auburn, grey","skin_color":"fair","eye_color":"blue","birth_year":"64BBY","gender":"male","homeworld":"https://swapi.dev/api/planets/21/","films":["https://swapi.dev/api/films/1/","https://swapi.dev/api/films/6/"],"species":[],"vehicles":[],"starships":[],"created":"2014-12-10T16:26:56.138000Z","edited":"2014-12-20T21:17:50.330000Z","url":"https://swapi.dev/api/people/12/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:55 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"604befef43483312ac45ac2533f40374"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:56.331163
+Request method: GET
+Request URL: https://swapi.dev/api/people/13/
+
+Response code: 200
+Response text: {"name":"Chewbacca","height":"228","mass":"112","hair_color":"brown","skin_color":"unknown","eye_color":"blue","birth_year":"200BBY","gender":"male","homeworld":"https://swapi.dev/api/planets/14/","films":["https://swapi.dev/api/films/1/","https://swapi.dev/api/films/2/","https://swapi.dev/api/films/3/","https://swapi.dev/api/films/6/"],"species":["https://swapi.dev/api/species/3/"],"vehicles":["https://swapi.dev/api/vehicles/19/"],"starships":["https://swapi.dev/api/starships/10/","https://swapi.dev/api/starships/22/"],"created":"2014-12-10T16:42:45.066000Z","edited":"2014-12-20T21:17:50.332000Z","url":"https://swapi.dev/api/people/13/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:56 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"d650397ca5f12bb7628e9fb7fac2a537"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:57.094163
+Request method: GET
+Request URL: https://swapi.dev/api/people/20/
+
+Response code: 200
+Response text: {"name":"Yoda","height":"66","mass":"17","hair_color":"white","skin_color":"green","eye_color":"brown","birth_year":"896BBY","gender":"male","homeworld":"https://swapi.dev/api/planets/28/","films":["https://swapi.dev/api/films/2/","https://swapi.dev/api/films/3/","https://swapi.dev/api/films/4/","https://swapi.dev/api/films/5/","https://swapi.dev/api/films/6/"],"species":["https://swapi.dev/api/species/6/"],"vehicles":[],"starships":[],"created":"2014-12-15T12:26:01.042000Z","edited":"2014-12-20T21:17:50.345000Z","url":"https://swapi.dev/api/people/20/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:57 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"fdfe369e3ac2a503ce5d4529eea0ea40"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:57.375694
+Request method: GET
+Request URL: https://swapi.dev/api/people/21/
+
+Response code: 200
+Response text: {"name":"Palpatine","height":"170","mass":"75","hair_color":"grey","skin_color":"pale","eye_color":"yellow","birth_year":"82BBY","gender":"male","homeworld":"https://swapi.dev/api/planets/8/","films":["https://swapi.dev/api/films/2/","https://swapi.dev/api/films/3/","https://swapi.dev/api/films/4/","https://swapi.dev/api/films/5/","https://swapi.dev/api/films/6/"],"species":[],"vehicles":[],"starships":[],"created":"2014-12-15T12:48:05.971000Z","edited":"2014-12-20T21:17:50.347000Z","url":"https://swapi.dev/api/people/21/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:57 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"d3665056d2202342964c345a9159f140"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:57.895645
+Request method: GET
+Request URL: https://swapi.dev/api/people/33/
+
+Response code: 200
+Response text: {"name":"Nute Gunray","height":"191","mass":"90","hair_color":"none","skin_color":"mottled green","eye_color":"red","birth_year":"unknown","gender":"male","homeworld":"https://swapi.dev/api/planets/18/","films":["https://swapi.dev/api/films/4/","https://swapi.dev/api/films/5/","https://swapi.dev/api/films/6/"],"species":["https://swapi.dev/api/species/11/"],"vehicles":[],"starships":[],"created":"2014-12-19T17:05:57.357000Z","edited":"2014-12-20T21:17:50.377000Z","url":"https://swapi.dev/api/people/33/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:58 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"523be5cf8d5d30b1a174b3495cc72e42"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:58.361519
+Request method: GET
+Request URL: https://swapi.dev/api/people/35/
+
+Response code: 200
+Response text: {"name":"Padmé Amidala","height":"185","mass":"45","hair_color":"brown","skin_color":"light","eye_color":"brown","birth_year":"46BBY","gender":"female","homeworld":"https://swapi.dev/api/planets/8/","films":["https://swapi.dev/api/films/4/","https://swapi.dev/api/films/5/","https://swapi.dev/api/films/6/"],"species":[],"vehicles":[],"starships":["https://swapi.dev/api/starships/39/","https://swapi.dev/api/starships/49/","https://swapi.dev/api/starships/64/"],"created":"2014-12-19T17:28:26.926000Z","edited":"2014-12-20T21:17:50.381000Z","url":"https://swapi.dev/api/people/35/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:58 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"9594a4da02e7ff5cd67da7a0dd72100a"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:58.604307
+Request method: GET
+Request URL: https://swapi.dev/api/people/46/
+
+Response code: 200
+Response text: {"name":"Ayla Secura","height":"178","mass":"55","hair_color":"none","skin_color":"blue","eye_color":"hazel","birth_year":"48BBY","gender":"female","homeworld":"https://swapi.dev/api/planets/37/","films":["https://swapi.dev/api/films/4/","https://swapi.dev/api/films/5/","https://swapi.dev/api/films/6/"],"species":["https://swapi.dev/api/species/15/"],"vehicles":[],"starships":[],"created":"2014-12-20T09:48:01.172000Z","edited":"2014-12-20T21:17:50.409000Z","url":"https://swapi.dev/api/people/46/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:58 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"932ebffd40ea279aedef6d4783f4db76"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:59.157872
+Request method: GET
+Request URL: https://swapi.dev/api/people/51/
+
+Response code: 200
+Response text: {"name":"Mace Windu","height":"188","mass":"84","hair_color":"none","skin_color":"dark","eye_color":"brown","birth_year":"72BBY","gender":"male","homeworld":"https://swapi.dev/api/planets/42/","films":["https://swapi.dev/api/films/4/","https://swapi.dev/api/films/5/","https://swapi.dev/api/films/6/"],"species":[],"vehicles":[],"starships":[],"created":"2014-12-20T10:12:30.846000Z","edited":"2014-12-20T21:17:50.420000Z","url":"https://swapi.dev/api/people/51/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:59 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"fc8dae30f1d0b7ba248abfde1ecbc3fb"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:59.465088
+Request method: GET
+Request URL: https://swapi.dev/api/people/52/
+
+Response code: 200
+Response text: {"name":"Ki-Adi-Mundi","height":"198","mass":"82","hair_color":"white","skin_color":"pale","eye_color":"yellow","birth_year":"92BBY","gender":"male","homeworld":"https://swapi.dev/api/planets/43/","films":["https://swapi.dev/api/films/4/","https://swapi.dev/api/films/5/","https://swapi.dev/api/films/6/"],"species":["https://swapi.dev/api/species/20/"],"vehicles":[],"starships":[],"created":"2014-12-20T10:15:32.293000Z","edited":"2014-12-20T21:17:50.422000Z","url":"https://swapi.dev/api/people/52/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:59 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"7a25b855f9e3a1d632c0f68fbb863ce3"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:17:59.894477
+Request method: GET
+Request URL: https://swapi.dev/api/people/53/
+
+Response code: 200
+Response text: {"name":"Kit Fisto","height":"196","mass":"87","hair_color":"none","skin_color":"green","eye_color":"black","birth_year":"unknown","gender":"male","homeworld":"https://swapi.dev/api/planets/44/","films":["https://swapi.dev/api/films/4/","https://swapi.dev/api/films/5/","https://swapi.dev/api/films/6/"],"species":["https://swapi.dev/api/species/21/"],"vehicles":[],"starships":[],"created":"2014-12-20T10:18:57.202000Z","edited":"2014-12-20T21:17:50.424000Z","url":"https://swapi.dev/api/people/53/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:17:59 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"e70a19515f74bb18a7e4fe7a238a6342"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:18:00.201785
+Request method: GET
+Request URL: https://swapi.dev/api/people/54/
+
+Response code: 200
+Response text: {"name":"Eeth Koth","height":"171","mass":"unknown","hair_color":"black","skin_color":"brown","eye_color":"brown","birth_year":"unknown","gender":"male","homeworld":"https://swapi.dev/api/planets/45/","films":["https://swapi.dev/api/films/4/","https://swapi.dev/api/films/6/"],"species":["https://swapi.dev/api/species/22/"],"vehicles":[],"starships":[],"created":"2014-12-20T10:26:47.902000Z","edited":"2014-12-20T21:17:50.427000Z","url":"https://swapi.dev/api/people/54/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:18:00 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"b170fd44e78f65518eeb286a0c9675c1"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:18:00.631811
+Request method: GET
+Request URL: https://swapi.dev/api/people/55/
+
+Response code: 200
+Response text: {"name":"Adi Gallia","height":"184","mass":"50","hair_color":"none","skin_color":"dark","eye_color":"blue","birth_year":"unknown","gender":"female","homeworld":"https://swapi.dev/api/planets/9/","films":["https://swapi.dev/api/films/4/","https://swapi.dev/api/films/6/"],"species":["https://swapi.dev/api/species/23/"],"vehicles":[],"starships":[],"created":"2014-12-20T10:29:11.661000Z","edited":"2014-12-20T21:17:50.432000Z","url":"https://swapi.dev/api/people/55/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:18:00 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"ca67a895fd4f5adb308f277e705b2f46"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:18:00.955289
+Request method: GET
+Request URL: https://swapi.dev/api/people/56/
+
+Response code: 200
+Response text: {"name":"Saesee Tiin","height":"188","mass":"unknown","hair_color":"none","skin_color":"pale","eye_color":"orange","birth_year":"unknown","gender":"male","homeworld":"https://swapi.dev/api/planets/47/","films":["https://swapi.dev/api/films/4/","https://swapi.dev/api/films/6/"],"species":["https://swapi.dev/api/species/24/"],"vehicles":[],"starships":[],"created":"2014-12-20T10:32:11.669000Z","edited":"2014-12-20T21:17:50.434000Z","url":"https://swapi.dev/api/people/56/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:18:00 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"71c45607843d211e3c859f8394ecbd45"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:18:01.246914
+Request method: GET
+Request URL: https://swapi.dev/api/people/58/
+
+Response code: 200
+Response text: {"name":"Plo Koon","height":"188","mass":"80","hair_color":"none","skin_color":"orange","eye_color":"black","birth_year":"22BBY","gender":"male","homeworld":"https://swapi.dev/api/planets/49/","films":["https://swapi.dev/api/films/4/","https://swapi.dev/api/films/5/","https://swapi.dev/api/films/6/"],"species":["https://swapi.dev/api/species/26/"],"vehicles":[],"starships":["https://swapi.dev/api/starships/48/"],"created":"2014-12-20T10:49:19.859000Z","edited":"2014-12-20T21:17:50.439000Z","url":"https://swapi.dev/api/people/58/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:18:01 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"62bfd5559cc777533a2f4f85851374e0"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:18:02.173103
+Request method: GET
+Request URL: https://swapi.dev/api/people/63/
+
+Response code: 200
+Response text: {"name":"Poggle the Lesser","height":"183","mass":"80","hair_color":"none","skin_color":"green","eye_color":"yellow","birth_year":"unknown","gender":"male","homeworld":"https://swapi.dev/api/planets/11/","films":["https://swapi.dev/api/films/5/","https://swapi.dev/api/films/6/"],"species":["https://swapi.dev/api/species/28/"],"vehicles":[],"starships":[],"created":"2014-12-20T16:40:43.977000Z","edited":"2014-12-20T21:17:50.453000Z","url":"https://swapi.dev/api/people/63/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:18:02 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"93bd4234cb8bcc496039e7a1ef775c0b"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:18:02.906365
+Request method: GET
+Request URL: https://swapi.dev/api/people/64/
+
+Response code: 200
+Response text: {"name":"Luminara Unduli","height":"170","mass":"56.2","hair_color":"black","skin_color":"yellow","eye_color":"blue","birth_year":"58BBY","gender":"female","homeworld":"https://swapi.dev/api/planets/51/","films":["https://swapi.dev/api/films/5/","https://swapi.dev/api/films/6/"],"species":["https://swapi.dev/api/species/29/"],"vehicles":[],"starships":[],"created":"2014-12-20T16:45:53.668000Z","edited":"2014-12-20T21:17:50.455000Z","url":"https://swapi.dev/api/people/64/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:18:02 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"4cce5dd6f3cccd213288ec795653d6d5"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:18:03.212870
+Request method: GET
+Request URL: https://swapi.dev/api/people/67/
+
+Response code: 200
+Response text: {"name":"Dooku","height":"193","mass":"80","hair_color":"white","skin_color":"fair","eye_color":"brown","birth_year":"102BBY","gender":"male","homeworld":"https://swapi.dev/api/planets/52/","films":["https://swapi.dev/api/films/5/","https://swapi.dev/api/films/6/"],"species":["https://swapi.dev/api/species/1/"],"vehicles":["https://swapi.dev/api/vehicles/55/"],"starships":[],"created":"2014-12-20T16:52:14.726000Z","edited":"2014-12-20T21:17:50.462000Z","url":"https://swapi.dev/api/people/67/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:18:03 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"04df9fae5348b3bf0285e6fbd5586f86"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:18:03.594476
+Request method: GET
+Request URL: https://swapi.dev/api/people/68/
+
+Response code: 200
+Response text: {"name":"Bail Prestor Organa","height":"191","mass":"unknown","hair_color":"black","skin_color":"tan","eye_color":"brown","birth_year":"67BBY","gender":"male","homeworld":"https://swapi.dev/api/planets/2/","films":["https://swapi.dev/api/films/5/","https://swapi.dev/api/films/6/"],"species":["https://swapi.dev/api/species/1/"],"vehicles":[],"starships":[],"created":"2014-12-20T16:53:08.575000Z","edited":"2014-12-20T21:17:50.463000Z","url":"https://swapi.dev/api/people/68/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:18:03 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"594da315be314d85285b118776e965b6"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:18:03.922530
+Request method: GET
+Request URL: https://swapi.dev/api/people/75/
+
+Response code: 200
+Response text: {"name":"R4-P17","height":"96","mass":"unknown","hair_color":"none","skin_color":"silver, red","eye_color":"red, blue","birth_year":"unknown","gender":"female","homeworld":"https://swapi.dev/api/planets/28/","films":["https://swapi.dev/api/films/5/","https://swapi.dev/api/films/6/"],"species":[],"vehicles":[],"starships":[],"created":"2014-12-20T17:43:36.409000Z","edited":"2014-12-20T21:17:50.478000Z","url":"https://swapi.dev/api/people/75/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:18:04 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"86083137aa740c3167f7ef823e696625"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:18:04.375980
+Request method: GET
+Request URL: https://swapi.dev/api/people/78/
+
+Response code: 200
+Response text: {"name":"Shaak Ti","height":"178","mass":"57","hair_color":"none","skin_color":"red, blue, white","eye_color":"black","birth_year":"unknown","gender":"female","homeworld":"https://swapi.dev/api/planets/58/","films":["https://swapi.dev/api/films/5/","https://swapi.dev/api/films/6/"],"species":["https://swapi.dev/api/species/35/"],"vehicles":[],"starships":[],"created":"2014-12-20T18:44:01.103000Z","edited":"2014-12-20T21:17:50.486000Z","url":"https://swapi.dev/api/people/78/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:18:04 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"5983714a0a35ac2af401a109979074cc"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:18:04.744117
+Request method: GET
+Request URL: https://swapi.dev/api/people/79/
+
+Response code: 200
+Response text: {"name":"Grievous","height":"216","mass":"159","hair_color":"none","skin_color":"brown, white","eye_color":"green, yellow","birth_year":"unknown","gender":"male","homeworld":"https://swapi.dev/api/planets/59/","films":["https://swapi.dev/api/films/6/"],"species":["https://swapi.dev/api/species/36/"],"vehicles":["https://swapi.dev/api/vehicles/60/"],"starships":["https://swapi.dev/api/starships/74/"],"created":"2014-12-20T19:43:53.348000Z","edited":"2014-12-20T21:17:50.488000Z","url":"https://swapi.dev/api/people/79/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:18:04 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"ce1773f26322c23d283ac1c14e500d37"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:18:05.117176
+Request method: GET
+Request URL: https://swapi.dev/api/people/80/
+
+Response code: 200
+Response text: {"name":"Tarfful","height":"234","mass":"136","hair_color":"brown","skin_color":"brown","eye_color":"blue","birth_year":"unknown","gender":"male","homeworld":"https://swapi.dev/api/planets/14/","films":["https://swapi.dev/api/films/6/"],"species":["https://swapi.dev/api/species/3/"],"vehicles":[],"starships":[],"created":"2014-12-20T19:46:34.209000Z","edited":"2014-12-20T21:17:50.491000Z","url":"https://swapi.dev/api/people/80/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:18:05 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"d5773538427b91c33f81110d2cbc8b1c"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:18:05.424389
+Request method: GET
+Request URL: https://swapi.dev/api/people/81/
+
+Response code: 200
+Response text: {"name":"Raymus Antilles","height":"188","mass":"79","hair_color":"brown","skin_color":"light","eye_color":"brown","birth_year":"unknown","gender":"male","homeworld":"https://swapi.dev/api/planets/2/","films":["https://swapi.dev/api/films/1/","https://swapi.dev/api/films/6/"],"species":[],"vehicles":[],"starships":[],"created":"2014-12-20T19:49:35.583000Z","edited":"2014-12-20T21:17:50.493000Z","url":"https://swapi.dev/api/people/81/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:18:05 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"5a94d70e19548a99066f9348cd3bd78a"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:18:05.670511
+Request method: GET
+Request URL: https://swapi.dev/api/people/82/
+
+Response code: 200
+Response text: {"name":"Sly Moore","height":"178","mass":"48","hair_color":"none","skin_color":"pale","eye_color":"white","birth_year":"unknown","gender":"female","homeworld":"https://swapi.dev/api/planets/60/","films":["https://swapi.dev/api/films/5/","https://swapi.dev/api/films/6/"],"species":[],"vehicles":[],"starships":[],"created":"2014-12-20T20:18:37.619000Z","edited":"2014-12-20T21:17:50.496000Z","url":"https://swapi.dev/api/people/82/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:18:05 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"7bcdb10fc4f1a925fc77562f200399b7"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
+
+-----
+Test: tests/test_SWAPI.py::Test_Get_Сharacters_List::test_characters_with_DV (call)
+Time: 2024-11-02 13:18:05.916795
+Request method: GET
+Request URL: https://swapi.dev/api/people/83/
+
+Response code: 200
+Response text: {"name":"Tion Medon","height":"206","mass":"80","hair_color":"none","skin_color":"grey","eye_color":"black","birth_year":"unknown","gender":"male","homeworld":"https://swapi.dev/api/planets/12/","films":["https://swapi.dev/api/films/6/"],"species":["https://swapi.dev/api/species/37/"],"vehicles":[],"starships":[],"created":"2014-12-20T20:35:04.260000Z","edited":"2014-12-20T21:17:50.498000Z","url":"https://swapi.dev/api/people/83/"}
+Response headers: {'Server': 'nginx/1.16.1', 'Date': 'Sat, 02 Nov 2024 10:18:05 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept, Cookie', 'X-Frame-Options': 'SAMEORIGIN', 'ETag': '"8f2b999bf42358ccc13f961af920239a"', 'Allow': 'GET, HEAD, OPTIONS', 'Strict-Transport-Security': 'max-age=15768000'}
+Response cookies: {}
+
+-----
