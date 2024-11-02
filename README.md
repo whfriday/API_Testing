@@ -127,7 +127,7 @@ _Ниже приведен пример того, как вы можете кл�
 
 1. Клонирование репозитория
    ```sh
-   git clone https://github.com/whfriday/AQA_Testing_Selenium.git
+   git clone https://github.com/whfriday/SWAPI_Testing.git
    ```
 2. Проверьте, чтобы у вас была установлены библиотеки Requests и Pytest.
    ```sh
