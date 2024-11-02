@@ -6,7 +6,6 @@ import sys
 sys.path.append(project_dir)
 # Путь для импорта файлов проекта
 
-# import json
 from utils.api import Star_Wars_API
 from utils.helper_methods import File_Working
 from utils.checking import Checking
